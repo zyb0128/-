@@ -1,0 +1,18 @@
+[2017-05-05 13:51:32] /Shopnc_b2b2c/admin/modules/shop/index.php?act=refund&op=edit&refund_id=4 ( act=refund&op=edit ) 
+ERR: Db Error: Column 'log_store_name' cannot be null
+INSERT  INTO `33hao_store_sb_log` (log_store_name,log_store_id,log_type,log_fee,log_add_time,log_desc) VALUES (NULL,'3','sb_back','8.00','1493963492','确认退水币，订单号: 9000000000001301')
+[2017-05-05 13:59:37] /Shopnc_b2b2c/admin/modules/shop/index.php?act=refund&op=edit&refund_id=5 ( act=refund&op=edit ) 
+ERR: Db Error: Column 'log_store_name' cannot be null
+INSERT  INTO `33hao_store_sb_log` (log_store_name,log_store_id,log_type,log_fee,log_add_time,log_desc) VALUES (NULL,'3','sb_back','90.00','1493963977','确认退水币，订单号: 9000000000001401')
+[2017-05-05 14:03:42] /Shopnc_b2b2c/admin/modules/shop/index.php?act=refund&op=edit&refund_id=6 ( act=refund&op=edit ) 
+ERR: Db Error: Column 'log_store_name' cannot be null
+INSERT  INTO `33hao_store_sb_log` (log_store_name,log_store_id,log_type,log_fee,log_add_time,log_desc) VALUES (NULL,'3','sb_back','90.00','1493964222','确认退水币，订单号: 9000000000001501')
+[2017-05-05 14:04:47] /Shopnc_b2b2c/admin/modules/shop/index.php?act=refund&op=edit&refund_id=6 ( act=refund&op=edit ) 
+ERR: Db Error: Column 'log_store_name' cannot be null
+INSERT  INTO `33hao_store_sb_log` (log_store_name,log_store_id,log_type,log_fee,log_add_time,log_desc) VALUES (NULL,'3','sb_back','90.00','1493964287','确认退水币，订单号: 9000000000001501')
+[2017-05-05 19:45:59] /Shopnc_b2b2c/index.php?act=mobileApi&op=getGoodsCart&fcy=2&user_id=2&goodsId=100013&payNum=20 ( act=mobileapi&op=getgoodscart ) 
+ERR: Db Error: Unknown column 'goods_id' in 'where clause'
+SELECT * FROM `33hao_goods_common` WHERE ( goods_id = '100013' ) LIMIT 1  
+[2017-05-05 20:31:33] /Shopnc_b2b2c/index.php?act=mobileApi&op=getGoodsCart&user_id=2&goodsId=100013&payNum=20 ( act=mobileapi&op=getgoodscart ) 
+ERR: Db Error: Column 'store_id' cannot be null
+INSERT  INTO `33hao_cart` (buyer_id,store_id,goods_id,goods_name,goods_price,goods_num,store_name,bl_id) VALUES ('2',NULL,'100013',NULL,NULL,'20',NULL,'0')

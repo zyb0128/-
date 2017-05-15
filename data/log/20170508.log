@@ -1,0 +1,6 @@
+[2017-05-08 16:05:21] http://localhost/Shopnc_b2b2c/admin/modules/shop/index.php?act=bill&op=get_bill_info_xml&query_type=refund&ob_id=6 ( act=bill&op=get_bill_info_xml ) 
+ERR: Db Error: Unknown table 'refund_return'
+SELECT refund_return.*,ROUND(refund_amount*commis_rate/100,2) as commis_amount FROM `33hao_refund_return` WHERE ( seller_state = '2' ) AND ( store_id = '3' ) AND ( goods_id > '0' ) AND (  (admin_time BETWEEN '1493654400' AND '1493740799' ) ) LIMIT 0,15  
+[2017-05-08 16:58:54] /Shopnc_b2b2c/shop/index.php?act=member_order&op=change_state&state_type=order_receive&order_id=28&inajax=1 ( act=member_order&op=change_state ) 
+ERR: Db Error: Column 'buyer_vip' cannot be null
+INSERT  INTO `33hao_rebate` (pay_num,pay_goods_name,pay_goods_id,order_sn,store_id,store_name,buyer_id,buyer_name,add_time,pay_name,pay_fee,status,creattime,buyer_vip,buyer_vip_name,privilege_status,privilege_type,privilege_name,privilege_time_type,privilege_time_name,privilege_val) VALUES ('120','空空1号','100015','9000000000002801','2','测试水厂店铺','2','sllsll','1494233717','水币支付','1.20','1','1494233934',NULL,NULL,'20','1','销量','2','月返','a:3:{i:100;s:3:\"0.1\";i:150;s:3:\"1.2\";i:200;s:3:\"1.5\";}')

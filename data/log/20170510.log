@@ -1,0 +1,96 @@
+[2017-05-10 09:47:32] /Shopnc_b2b2c/index.php?act=goods&op=addbrowse&gid=100015 ( act=goods&op=addbrowse ) 
+ERR: Db Error: Duplicate entry '100015-2' for key 'PRIMARY'
+INSERT  INTO `33hao_goods_browse` (goods_id,member_id,browsetime,gc_id,gc_id_1,gc_id_2,gc_id_3) VALUES ('100015','2','1494380851','633','593','599','633')
+[2017-05-10 14:45:38] /Shopnc_b2b2c/index.php?act=store_brokerage&op=pay&secret=eyJvcmRJZCI6IjEiLCJ0eXBlIjoicmViYXRlX21vb24iLCJidXlOdW0iOiIxMjAiLCJidXlGZWUiOiIxLjIiLCJzZWxsZXJfaWQiOiIyIiwic3RvcmVfaWQiOiIyIiwic2NhbGUiOjAuMSwic2NhbGVfZmVlIjowLjEyLCJzZWFyY2hJZCI6IjI4In0= ( act=store_brokerage&op=pay ) 
+ERR: Db Error: Unknown column 'store_id' in 'field list'
+INSERT  INTO `33hao_rebate_log` (buyNum,buyFee,seller_name,seller_id,store_id,scale,scale_fee,searchId,searchTime,privilege_val,add_time,from_to) VALUES ('120','1.2',NULL,'2','2','0.1','0.12','28',NULL,NULL,'1494398738','rebate_moon')
+[2017-05-10 14:50:41] /Shopnc_b2b2c/index.php?act=store_brokerage&op=pay&secret=eyJvcmRJZCI6IjEiLCJ0eXBlIjoicmViYXRlX21vb24iLCJidXlOdW0iOiIxMjAiLCJidXlGZWUiOiIxLjIiLCJzZWxsZXJfaWQiOiIyIiwic3RvcmVfaWQiOiIyIiwic2NhbGUiOjAuMSwic2NhbGVfZmVlIjowLjEyLCJzZWFyY2hJZCI6IjI4In0= ( act=store_brokerage&op=pay ) 
+ERR: Db Error: Unknown column 'store_id' in 'field list'
+INSERT  INTO `33hao_rebate_log` (buyNum,buyFee,seller_name,seller_id,store_id,scale,scale_fee,searchId,searchTime,privilege_val,add_time,from_to) VALUES ('120','1.2',NULL,'2','2','0.1','0.12','28',NULL,NULL,'1494399041','rebate_moon')
+[2017-05-10 14:54:02] /Shopnc_b2b2c/index.php?act=store_brokerage&op=pay&secret=eyJvcmRJZCI6IjEiLCJ0eXBlIjoicmViYXRlX21vb24iLCJidXlOdW0iOiIxMjAiLCJidXlGZWUiOiIxLjIiLCJzZWxsZXJfaWQiOiIyIiwic3RvcmVfaWQiOiIyIiwic2NhbGUiOjAuMSwic2NhbGVfZmVlIjowLjEyLCJzZWFyY2hJZCI6IjI4In0= ( act=store_brokerage&op=pay ) 
+ERR: Db Error: Unknown column 'store_id' in 'field list'
+INSERT  INTO `33hao_rebate_log` (buyNum,buyFee,seller_name,seller_id,store_id,scale,scale_fee,searchId,searchTime,privilege_val,add_time,from_to) VALUES ('120','1.2','测试水厂店铺','2','2','0.1','0.12','28',NULL,NULL,'1494399242','rebate_moon')
+[2017-05-10 14:56:04] /Shopnc_b2b2c/index.php?act=store_brokerage&op=pay&secret=eyJvcmRJZCI6IjEiLCJ0eXBlIjoicmViYXRlX21vb24iLCJidXlOdW0iOiIxMjAiLCJidXlGZWUiOiIxLjIiLCJzZWxsZXJfaWQiOiIyIiwic3RvcmVfaWQiOiIyIiwic2NhbGUiOjAuMSwic2NhbGVfZmVlIjowLjEyLCJzZWFyY2hJZCI6IjI4In0= ( act=store_brokerage&op=pay ) 
+ERR: Db Error: Unknown column 'store_id' in 'field list'
+INSERT  INTO `33hao_rebate_log` (buyNum,buyFee,seller_name,seller_id,store_id,scale,scale_fee,searchId,searchTime,privilege_val,add_time,from_to) VALUES ('120','1.2','测试水厂店铺','2','2','0.1','0.12','28',NULL,NULL,'1494399364','rebate_moon')
+[2017-05-10 14:59:26] /Shopnc_b2b2c/index.php?act=store_brokerage&op=pay&secret=eyJvcmRJZCI6IjEiLCJ0eXBlIjoicmViYXRlX21vb24iLCJidXlOdW0iOiIxMjAiLCJidXlGZWUiOiIxLjIiLCJzZWxsZXJfaWQiOiIyIiwic3RvcmVfaWQiOiIyIiwic2NhbGUiOjAuMSwic2NhbGVfZmVlIjowLjEyLCJzZWFyY2hJZCI6IjI4In0= ( act=store_brokerage&op=pay ) 
+ERR: Db Error: Unknown column 'store_id' in 'field list'
+INSERT  INTO `33hao_rebate_log` (buyNum,buyFee,seller_name,buyer_id,store_id,scale,scale_fee,searchId,searchTime,privilege_val,add_time,from_to) VALUES ('120','1.2','测试水厂店铺','2','2','0.1','0.12','28',NULL,NULL,'1494399566','rebate_moon')
+[2017-05-10 15:05:26] /Shopnc_b2b2c/index.php?act=store_brokerage&op=pay&secret=eyJvcmRJZCI6IjEiLCJ0eXBlIjoicmViYXRlX21vb24iLCJidXlOdW0iOiIxMjAiLCJidXlGZWUiOiIxLjIiLCJzZWxsZXJfaWQiOiIyIiwic3RvcmVfaWQiOiIyIiwic2NhbGUiOjAuMSwic2NhbGVfZmVlIjowLjEyLCJzZWFyY2hJZCI6IjI4IiwicHJpdmlsZWdlX3ZhbCI6ImE6Mzp7aToxMDA7czoyOlwiMTBcIjtpOjE1MDtzOjI6XCIyMFwiO2k6MjAwO3M6MjpcIjMwXCI7fSJ9 ( act=store_brokerage&op=pay ) 
+ERR: Db Error: Unknown column 'store_id' in 'field list'
+INSERT  INTO `33hao_rebate_log` (buyNum,buyFee,seller_name,buyer_id,store_id,scale,scale_fee,searchId,searchTime,privilege_val,add_time,from_to) VALUES ('120','1.2','测试水厂店铺','2','2','0.1','0.12','28',NULL,'a:3:{i:100;s:2:\"10\";i:150;s:2:\"20\";i:200;s:2:\"30\";}','1494399926','rebate_moon')
+[2017-05-10 15:05:34] /Shopnc_b2b2c/index.php?act=store_brokerage&op=pay&secret=eyJvcmRJZCI6IjEiLCJ0eXBlIjoicmViYXRlX21vb24iLCJidXlOdW0iOiIxMjAiLCJidXlGZWUiOiIxLjIiLCJzZWxsZXJfaWQiOiIyIiwic3RvcmVfaWQiOiIyIiwic2NhbGUiOjAuMSwic2NhbGVfZmVlIjowLjEyLCJzZWFyY2hJZCI6IjI4IiwicHJpdmlsZWdlX3ZhbCI6ImE6Mzp7aToxMDA7czoyOlwiMTBcIjtpOjE1MDtzOjI6XCIyMFwiO2k6MjAwO3M6MjpcIjMwXCI7fSJ9 ( act=store_brokerage&op=pay ) 
+ERR: Db Error: Unknown column 'store_id' in 'field list'
+INSERT  INTO `33hao_rebate_log` (buyNum,buyFee,seller_name,buyer_id,store_id,scale,scale_fee,searchId,searchTime,privilege_val,add_time,from_to) VALUES ('120','1.2','测试水厂店铺','2','2','0.1','0.12','28',NULL,'a:3:{i:100;s:2:\"10\";i:150;s:2:\"20\";i:200;s:2:\"30\";}','1494399934','rebate_moon')
+[2017-05-10 15:07:20] /Shopnc_b2b2c/index.php?act=store_brokerage&op=pay&secret=eyJvcmRJZCI6IjEiLCJ0eXBlIjoicmViYXRlX21vb24iLCJidXlOdW0iOiIxMjAiLCJidXlGZWUiOiIxLjIiLCJzZWxsZXJfaWQiOiIyIiwic3RvcmVfaWQiOiIyIiwic2NhbGUiOjAuMSwic2NhbGVfZmVlIjowLjEyLCJzZWFyY2hJZCI6IjI4IiwicHJpdmlsZWdlX3ZhbCI6ImE6Mzp7aToxMDA7czoyOlwiMTBcIjtpOjE1MDtzOjI6XCIyMFwiO2k6MjAwO3M6MjpcIjMwXCI7fSJ9 ( act=store_brokerage&op=pay ) 
+ERR: Db Error: Unknown column 'store_id' in 'field list'
+INSERT  INTO `33hao_rebate_log` (buyNum,buyFee,buyer_id,store_id,scale,scale_fee,searchId,privilege_val,add_time,from_to) VALUES ('120','1.2','2','2','0.1','0.12','28','a:3:{i:100;s:2:\"10\";i:150;s:2:\"20\";i:200;s:2:\"30\";}','1494400040','rebate_moon')
+[2017-05-10 15:07:46] /Shopnc_b2b2c/index.php?act=store_brokerage&op=pay&secret=eyJvcmRJZCI6IjEiLCJ0eXBlIjoicmViYXRlX21vb24iLCJidXlOdW0iOiIxMjAiLCJidXlGZWUiOiIxLjIiLCJzZWxsZXJfaWQiOiIyIiwic3RvcmVfaWQiOiIyIiwic2NhbGUiOjAuMSwic2NhbGVfZmVlIjowLjEyLCJzZWFyY2hJZCI6IjI4IiwicHJpdmlsZWdlX3ZhbCI6ImE6Mzp7aToxMDA7czoyOlwiMTBcIjtpOjE1MDtzOjI6XCIyMFwiO2k6MjAwO3M6MjpcIjMwXCI7fSJ9 ( act=store_brokerage&op=pay ) 
+ERR: Db Error: Unknown column 'store_id' in 'field list'
+INSERT  INTO `33hao_rebate_log` (buyNum,buyFee,buyer_id,store_id,scale,scale_fee,searchId,privilege_val,add_time,from_to) VALUES ('120','1.2','2','2','0.1','0.12','28','a:3:{i:100;s:2:\"10\";i:150;s:2:\"20\";i:200;s:2:\"30\";}','1494400066','rebate_moon')
+[2017-05-10 15:08:22] /Shopnc_b2b2c/index.php?act=store_brokerage&op=pay&secret=eyJvcmRJZCI6IjEiLCJ0eXBlIjoicmViYXRlX21vb24iLCJidXlOdW0iOiIxMjAiLCJidXlGZWUiOiIxLjIiLCJzZWxsZXJfaWQiOiIyIiwic3RvcmVfaWQiOiIyIiwic2NhbGUiOjAuMSwic2NhbGVfZmVlIjowLjEyLCJzZWFyY2hJZCI6IjI4IiwicHJpdmlsZWdlX3ZhbCI6ImE6Mzp7aToxMDA7czoyOlwiMTBcIjtpOjE1MDtzOjI6XCIyMFwiO2k6MjAwO3M6MjpcIjMwXCI7fSJ9 ( act=store_brokerage&op=pay ) 
+ERR: Db Error: Unknown column 'store_id' in 'field list'
+INSERT  INTO `33hao_rebate_log` (buyNum,buyFee,seller_name,buyer_id,store_id,scale,scale_fee,searchId,searchTime,privilege_val,add_time,from_to) VALUES ('120','1.2','测试水厂店铺','2','2','0.1','0.12','28',NULL,'a:3:{i:100;s:2:\"10\";i:150;s:2:\"20\";i:200;s:2:\"30\";}','1494400102','rebate_moon')
+[2017-05-10 15:22:06] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_moon&submit=ok&pay_t=2&pay_buyer_id=2&pay_goods_id=100015&pay_privilege_id=1&pay_moon=4 ( act=store_brokerage&op=index_moon ) 
+ERR: Db Error: Column 'updataId' cannot be null
+INSERT  INTO `33hao_rebate_moon` (store_id,buyer_id,goods_id,moon,buyer_vip,add_time,pay_fee,pay_num,updataId,privilege_val) VALUES ('2','2','100015','4','0','1494400926',NULL,NULL,NULL,'a:3:{i:100;s:2:\"10\";i:150;s:2:\"20\";i:200;s:2:\"30\";}')
+[2017-05-10 19:46:46] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&user_id=13&osn=9000000000002901 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494416806' WHERE ( goods_id IN ('100014') )
+[2017-05-10 19:50:19] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&user_id=13&osn=9000000000002901 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417019' WHERE ( goods_id IN ('100014') )
+[2017-05-10 19:50:45] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&user_id=13&osn=9000000000002901 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417045' WHERE ( goods_id IN ('100014') )
+[2017-05-10 19:51:06] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&user_id=13&osn=9000000000002901 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417066' WHERE ( goods_id IN ('100014') )
+[2017-05-10 19:53:18] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&user_id=13&osn=9000000000002901 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417198' WHERE ( goods_id IN ('100014') )
+[2017-05-10 19:53:34] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&user_id=13&osn=9000000000002901 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417214' WHERE ( goods_id IN ('100014') )
+[2017-05-10 19:54:45] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&user_id=13&osn=9000000000002901 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417285' WHERE ( goods_id IN ('100014') )
+[2017-05-10 19:54:48] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&user_id=13&osn=9000000000002901 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417288' WHERE ( goods_id IN ('100014') )
+[2017-05-10 19:55:10] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&user_id=13&osn=9000000000002901 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417310' WHERE ( goods_id IN ('100014') )
+[2017-05-10 19:55:19] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&user_id=13&osn=9000000000002901 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417319' WHERE ( goods_id IN ('100014') )
+[2017-05-10 19:55:26] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&user_id=13&osn=9000000000002901 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417326' WHERE ( goods_id IN ('100014') )
+[2017-05-10 19:55:39] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&user_id=13&osn=9000000000002901 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417339' WHERE ( goods_id IN ('100014') )
+[2017-05-10 19:56:02] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&user_id=13&osn=9000000000002901 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417362' WHERE ( goods_id IN ('100014') )
+[2017-05-10 19:56:50] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&user_id=13&osn=9000000000002901 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417410' WHERE ( goods_id IN ('100014') )
+[2017-05-10 19:57:39] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&user_id=13&osn=9000000000002901 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417459' WHERE ( goods_id IN ('100014') )
+[2017-05-10 19:58:14] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&user_id=13&osn=9000000000002901 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417494' WHERE ( goods_id IN ('100014') )
+[2017-05-10 19:58:44] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&user_id=13&osn=9000000000002901 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417524' WHERE ( goods_id IN ('100014') )
+[2017-05-10 19:59:37] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&user_id=13&osn=9000000000002901 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417577' WHERE ( goods_id IN ('100014') )
+[2017-05-10 20:03:22] /Shopnc_b2b2c/shop/index.php?act=member_order&op=change_state&state_type=order_cancel&order_id=29&inajax=1 ( act=member_order&op=change_state ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417802' WHERE ( goods_id IN ('100014') )
+[2017-05-10 20:03:34] /Shopnc_b2b2c/shop/index.php?act=member_order&op=change_state&state_type=order_cancel&order_id=29&inajax=1 ( act=member_order&op=change_state ) 
+ERR: Db Error: BIGINT UNSIGNED value is out of range in '(`ceshi`.`33hao_goods`.`goods_salenum` - 1)'
+UPDATE `33hao_goods` SET goods_storage=goods_storage+1,goods_salenum=goods_salenum-1,goods_edittime='1494417814' WHERE ( goods_id IN ('100014') )

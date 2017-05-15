@@ -1,0 +1,6 @@
+[2017-05-13 10:16:56] /Shopnc_b2b2c/index.php?act=goods&op=addbrowse&gid=100011 ( act=goods&op=addbrowse ) 
+ERR: Db Error: Duplicate entry '100011-2' for key 'PRIMARY'
+INSERT  INTO `33hao_goods_browse` (goods_id,member_id,browsetime,gc_id,gc_id_1,gc_id_2,gc_id_3) VALUES ('100011','2','1494641816','633','593','599','633')
+[2017-05-13 10:17:03] /Shopnc_b2b2c/index.php?act=goods&op=addbrowse&gid=100011 ( act=goods&op=addbrowse ) 
+ERR: Db Error: Duplicate entry '100011-2' for key 'PRIMARY'
+INSERT  INTO `33hao_goods_browse` (goods_id,member_id,browsetime,gc_id,gc_id_1,gc_id_2,gc_id_3) VALUES ('100011','2','1494641823','633','593','599','633')

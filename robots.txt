@@ -1,0 +1,15 @@
+#
+# robots.txt for 好商城 33hao.com
+#
+
+
+
+#   2017年4月18日 14:54:05 记录
+#   新增导航菜单 【店铺】-》 【优惠设置】 控制器  shop -> control -> control.php
+#
+#
+#   2017年4月28日 18:43:00 记录
+#   新增后台导航菜单 控制器   data -> cache -> admin_menu.php
+#
+#
+#
